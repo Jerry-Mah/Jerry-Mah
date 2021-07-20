@@ -1,7 +1,7 @@
 <img align = "right"  width="300" src = "web-3967926_1280.jpg" alt = "cool" >
-<h1 align="center">Hi 👋, I'm Jeremy</h1>
+<h1 align="left">Hi 👋, I'm Jeremy</h1>
 
-<h3 align="center">A curious developer from India</h3>
+<h3 align="left">A curious developer from India</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Jerry-Mah alt=Jerry-Mah/> </p>
 
 <p align="left"> <a href="https://twitter.com/Jerry_Math_" target="blank"><img src="https://img.shields.io/twitter/follow/Jerry_Math?logo=twitter&style=for-the-badge" alt="Jerry-Math" /></a> </p>
