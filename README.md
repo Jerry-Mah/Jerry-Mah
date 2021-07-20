@@ -1,4 +1,4 @@
-<img src = "web-3967926_1280.jpg" alt = "cool" >
+<img width="400" src = "web-3967926_1280.jpg" alt = "cool" >
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 
 <h3 align="center">A curious developer from India</h3>
