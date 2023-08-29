@@ -11,7 +11,7 @@
 
 - 🤔 I’m looking for Internships.
 
-- 💬 Ask me about **HTML, CSS , Javascript and python**
+- 💬 Ask me about **Front-end related technologies**
 
 - 📫 Reach me at **jeremyjohnmathew@gmail.com**
 
@@ -32,7 +32,10 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://www.react.com" target="_blank"> <img src="https://imgs.search.brave.com/pnJmxnvnATtGg6S3atoFMrSpS39K9vS8VAE9dqTWwWY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9h/L2E3L1JlYWN0LWlj/b24uc3Zn.svg" alt="react" width="40" height="40"/> </a>
+</p>
+
 
 
 <p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=Jerry-Mah&show_icons=true alt=Jerry-Mah /> </p>
